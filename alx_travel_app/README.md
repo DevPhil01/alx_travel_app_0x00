@@ -129,7 +129,4 @@ This will create a few **Listing** records with dummy data for testing.
 
 ---
 
-## License
 
-This project is licensed under the MIT License.  
-You are free to use, modify, and distribute as per the license terms.
